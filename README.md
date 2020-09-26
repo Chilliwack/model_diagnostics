@@ -4,4 +4,4 @@
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-Please see the [notebook](https://github.com/Chilliwack/model_diagnostics) for further details: https://github.com/Chilliwack/model_diagnostics.ipynb
+Please see the [notebook](https://github.com/Chilliwack/model_diagnostics/blob/master/model_diagnostics.ipynb) for further details: https://github.com/Chilliwack/model_diagnostics/blob/master/model_diagnostics.ipynb
